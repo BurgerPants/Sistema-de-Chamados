@@ -14,6 +14,10 @@ import java.util.Collection;
 import br.es.presentation.TelaCadastroEmpresa;
 import javax.swing.JOptionPane;
 
+/**
+ *
+ * @author Richard
+ */
 public class ControleEmpresas implements IControlador {
 
     private EmpresaDAO mapeadorEmpresa;
@@ -22,8 +26,6 @@ public class ControleEmpresas implements IControlador {
 
     public ControleEmpresas() {
         this.mapeadorEmpresa = new EmpresaDAO();
-        //fiz isso soh pra nao quebrar os metodos dessa classe por enquanto, sei q
-        //nao deveria ficar aqui
         this.empresas = mapeadorEmpresa.getEmpresas();
         this.telaEmpresa = new TelaCadastroEmpresa(this);
     }

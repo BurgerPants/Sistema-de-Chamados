@@ -9,10 +9,6 @@ import br.es.controller.ControladorPrincipal;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-/**
- *
- * @author Pedro
- */
 public class ControladorPrincipalTest {
     
     public ControladorPrincipalTest() {

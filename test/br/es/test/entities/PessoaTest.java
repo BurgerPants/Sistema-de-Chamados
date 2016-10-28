@@ -10,10 +10,6 @@ import br.es.entities.Pessoa;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-/**
- *
- * @author admin
- */
 public class PessoaTest {
 
     /*Testes de Inicialização*/

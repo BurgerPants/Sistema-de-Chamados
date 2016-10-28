@@ -16,10 +16,6 @@ import java.util.Calendar;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-/**
- *
- * @author admin
- */
 public class RegistroChamadoTest {
 
     /*Testes de Criacao*/

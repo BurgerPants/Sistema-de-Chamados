@@ -12,10 +12,6 @@ import br.es.entities.Empresa;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-/**
- *
- * @author Pedro
- */
 public class ControleClientesTest {
     
     @Test

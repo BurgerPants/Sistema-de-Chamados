@@ -13,10 +13,6 @@ import static org.junit.Assert.*;
 import org.junit.Rule;
 import org.junit.rules.Timeout;
 
-/**
- *
- * @author Pedro
- */
 public class ControleEmpresasTest {
     
     @Rule

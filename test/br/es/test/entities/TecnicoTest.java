@@ -10,10 +10,6 @@ import br.es.entities.Tecnico;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-/**
- *
- * @author admin
- */
 public class TecnicoTest {
     
     /*Testes de Inicialização*/

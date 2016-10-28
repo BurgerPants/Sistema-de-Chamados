@@ -18,10 +18,6 @@ import br.es.entities.TipoConexao;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-/**
- *
- * @author Pedro
- */
 public class ControleChamadosTest {
     
     @Test
