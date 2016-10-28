@@ -4,4 +4,4 @@ Um sistema de chamados em Java feito como trabalho final da disciplina de Desenv
 Obs: O trabalho não foi feito inteiramente por mim, cabendo crédito também aos meus colegas Richard Bertozzo Junior, Bruno Peres Schneider e Rodolfo Dartora da Silva. 
 
 #Travis
-https://travis-ci.org/HeitorIshihara/Sistema-de-Chamados
+https://travis-ci.org/BurguerPants/Sistema-de-Chamados
